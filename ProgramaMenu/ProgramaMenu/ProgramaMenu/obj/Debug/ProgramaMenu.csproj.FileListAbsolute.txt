@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\anajulialeite\Cesar\ProgramaMenu\ProgramaMenu\ProgramaMenu\obj\Debug\ProgramaMenu.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\ProgramaMenu\ProgramaMenu\ProgramaMenu\obj\Debug\ProgramaMenu.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\ProgramaMenu\ProgramaMenu\ProgramaMenu\bin\Debug\ProgramaMenu.exe.config
+C:\Users\Master\source\repos\anajulialeite\Cesar\ProgramaMenu\ProgramaMenu\ProgramaMenu\bin\Debug\ProgramaMenu.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\ProgramaMenu\ProgramaMenu\ProgramaMenu\bin\Debug\ProgramaMenu.pdb
+C:\Users\Master\source\repos\anajulialeite\Cesar\ProgramaMenu\ProgramaMenu\ProgramaMenu\obj\Debug\ProgramaMenu.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\ProgramaMenu\ProgramaMenu\ProgramaMenu\obj\Debug\ProgramaMenu.pdb
