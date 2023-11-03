@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.exe.config
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.pdb
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.pdb
