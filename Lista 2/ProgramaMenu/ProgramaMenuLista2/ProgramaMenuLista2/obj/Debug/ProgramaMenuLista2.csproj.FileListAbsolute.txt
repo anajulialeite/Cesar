@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\bin\Debug\ProgramaMenuLista2.exe.config
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\bin\Debug\ProgramaMenuLista2.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\bin\Debug\ProgramaMenuLista2.pdb
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.pdb
