@@ -1,2 +1,2 @@
 # Cesar
-Lista de exercícios, programação em C#
+Aluna do César - Lista de exercícios, programação em C#
