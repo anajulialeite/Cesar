@@ -1,2 +1,2 @@
 # César
-Aluna do César - Lista de exercícios, programação em C#
+Aluna do César - Lista de exercícios da matéria: Programação Orientada a Objetos I, em C#
