@@ -24,6 +24,8 @@ namespace MegaSena
             //Converte o HashSet para um array para exibir os números
             int[] numeros = new int[numerosUnicos.Count];
             numerosUnicos.CopyTo(numeros);
+            //Mostrar a sequência em ordem crescente
+            Array.Sort(numeros);
             //Mostrar na tela os números gerados 
             Console.WriteLine("A sequência de seis números é: ");
             foreach (int numero in numeros) //Exibe cada número em um array
@@ -31,7 +33,6 @@ namespace MegaSena
                 Console.WriteLine(numero);
             }
             Console.ReadKey();
-            
         }
     }
 }
