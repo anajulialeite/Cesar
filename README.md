@@ -8,6 +8,6 @@ Este repositório contém atividades de prática de programação para testar no
 
 Instalei o visual studio 2022 pelo Windows Store.
 
-Link do Guia de C# pelo site oficial da Microsoft: https://learn.microsoft.com/pt-br/dotnet/csharp/
+Link do Guia de C# pelo site oficial da Microsoft: <a href= "https://learn.microsoft.com/pt-br/dotnet/csharp/"> Acesse aqui</a>
 
-Link do Guia de C# pelo w3Schools: https://www.w3schools.com/cs/index.php
+Link do Guia de C# pelo w3Schools: <a href= "https://www.w3schools.com/cs/index.php"> Acesse aqui</a>
