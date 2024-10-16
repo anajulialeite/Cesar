@@ -8,10 +8,10 @@ namespace NotaFiscal
         static void Main(string[] args)
         {
             // Exemplo de uso das classes
-            var notaFiscal = new NotaFiscal(1, "Emitente Exemplo LTDA", "12.345.678/0001-90", "Destinatário Exemplo", "98.765.432/0001-01");
+            var notaFiscal = new NotaFiscal(1, "Ana Júlia LTDA", "12.345.678/0001-90", "Destinatário alguém", "98.765.432/0001-01");
 
-            notaFiscal.AdicionarProduto("Produto A", 10.50m, 2);
-            notaFiscal.AdicionarProduto("Produto B", 25.00m, 1);
+            notaFiscal.AdicionarProduto("Produto A", 5.000m, 2);
+            notaFiscal.AdicionarProduto("Produto B", 500m, 1);
 
             notaFiscal.ExibirDetalhesNotaFiscal();
 
