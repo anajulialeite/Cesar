@@ -6,6 +6,8 @@ Aluna do César Vinícius de Paula Ferraira - Lista de exercícios da matéria: 
 
 Este repositório contém atividades de prática de programação para testar nossos conhecimentos baseado no que foi ministrado em sala de aula com a ajuda do professor quando solicitado e por alguns amigos e continuo utilizando este repositório para alimentar mais exercícios que fui praticando sozinha.
 
+Este repositório continuou sendo utilizado para postar exercícios que o César continuou me passando para aprofundar cada dia mais os meus conhecimentos.
+
 Instalei o visual studio 2022 pelo Windows Store.
 
 Link do Guia de C# pelo site oficial da Microsoft: <a href= "https://learn.microsoft.com/pt-br/dotnet/csharp/"> Acesse aqui</a>
