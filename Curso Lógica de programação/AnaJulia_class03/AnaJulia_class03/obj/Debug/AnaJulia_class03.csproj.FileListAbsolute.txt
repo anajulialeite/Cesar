@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\AnaJulia_class03\AnaJulia_class03\bin\Debug\AnaJulia_class03.exe.config
+C:\Users\Master\source\repos\AnaJulia_class03\AnaJulia_class03\bin\Debug\AnaJulia_class03.exe
+C:\Users\Master\source\repos\AnaJulia_class03\AnaJulia_class03\bin\Debug\AnaJulia_class03.pdb
+C:\Users\Master\source\repos\AnaJulia_class03\AnaJulia_class03\obj\Debug\AnaJulia_class03.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\AnaJulia_class03\AnaJulia_class03\obj\Debug\AnaJulia_class03.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\AnaJulia_class03\AnaJulia_class03\obj\Debug\AnaJulia_class03.exe
+C:\Users\Master\source\repos\AnaJulia_class03\AnaJulia_class03\obj\Debug\AnaJulia_class03.pdb

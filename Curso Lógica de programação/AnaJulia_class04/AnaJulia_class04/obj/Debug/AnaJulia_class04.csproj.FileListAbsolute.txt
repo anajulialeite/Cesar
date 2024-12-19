@@ -1,0 +1,7 @@
+C:\Users\Master\Desktop\Curso Lógica de programação\AnaJulia_class04\AnaJulia_class04\bin\Debug\AnaJulia_class04.exe.config
+C:\Users\Master\Desktop\Curso Lógica de programação\AnaJulia_class04\AnaJulia_class04\bin\Debug\AnaJulia_class04.exe
+C:\Users\Master\Desktop\Curso Lógica de programação\AnaJulia_class04\AnaJulia_class04\bin\Debug\AnaJulia_class04.pdb
+C:\Users\Master\Desktop\Curso Lógica de programação\AnaJulia_class04\AnaJulia_class04\obj\Debug\AnaJulia_class04.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Curso Lógica de programação\AnaJulia_class04\AnaJulia_class04\obj\Debug\AnaJulia_class04.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Curso Lógica de programação\AnaJulia_class04\AnaJulia_class04\obj\Debug\AnaJulia_class04.exe
+C:\Users\Master\Desktop\Curso Lógica de programação\AnaJulia_class04\AnaJulia_class04\obj\Debug\AnaJulia_class04.pdb
