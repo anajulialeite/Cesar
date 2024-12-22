@@ -4,9 +4,9 @@
 
 Aluna do César Vinícius de Paula Ferraira - Lista de exercícios da matéria: Programação Orientada a Objetos I, em C#
 
-Este repositório contém atividades de prática de programação para testar nossos conhecimentos baseado no que foi ministrado em sala de aula com a ajuda do professor quando solicitado e por alguns amigos e continuo utilizando este repositório para alimentar mais exercícios que fui praticando sozinha.
+Este repositório contém atividades de prática de programação para testar meus conhecimentos baseado no que foi ministrado em sala de aula com a ajuda do professor quando solicitado. Continuo utilizando este repositório para praticar a minha lógica de programação, também está sendo utilizado para postar exercícios que o César continuou me passando, mesmo não sendo mais meu professor, para aprofundar cada dia mais os meus conhecimentos. 
 
-Este repositório continuou sendo utilizado para postar exercícios que o César continuou me passando para aprofundar cada dia mais os meus conhecimentos.
+O nível da minha prática com a linguagem C# varia do básico ao intermediário, o que vai me levar para níveis mais avançados são projetos que vou desenvolvendo ao longo do tempo e que também serão postados no meu GitHub com repositórios separados por projetos.
 
 Instalei o visual studio 2022 pelo Windows Store.
 
