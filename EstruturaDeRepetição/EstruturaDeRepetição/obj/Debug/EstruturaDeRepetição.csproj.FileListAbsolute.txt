@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaDeRepetição\EstruturaDeRepetição\bin\Debug\EstruturaDeRepetição.exe.config
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaDeRepetição\EstruturaDeRepetição\bin\Debug\EstruturaDeRepetição.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaDeRepetição\EstruturaDeRepetição\bin\Debug\EstruturaDeRepetição.pdb
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\EstruturaDeRepetição.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\EstruturaDeRepetição.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\EstruturaDeRepetição.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\EstruturaDeRepetição.pdb

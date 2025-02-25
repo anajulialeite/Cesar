@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\anajulialeite\Cesar\Velocidade de Média\VelocidadeMedia\VelocidadeMedia\bin\Debug\VelocidadeMedia.exe.config
+C:\Users\Master\source\repos\anajulialeite\Cesar\Velocidade de Média\VelocidadeMedia\VelocidadeMedia\bin\Debug\VelocidadeMedia.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\Velocidade de Média\VelocidadeMedia\VelocidadeMedia\bin\Debug\VelocidadeMedia.pdb
+C:\Users\Master\source\repos\anajulialeite\Cesar\Velocidade de Média\VelocidadeMedia\VelocidadeMedia\obj\Debug\VelocidadeMedia.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\Velocidade de Média\VelocidadeMedia\VelocidadeMedia\obj\Debug\VelocidadeMedia.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\Velocidade de Média\VelocidadeMedia\VelocidadeMedia\obj\Debug\VelocidadeMedia.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\Velocidade de Média\VelocidadeMedia\VelocidadeMedia\obj\Debug\VelocidadeMedia.pdb

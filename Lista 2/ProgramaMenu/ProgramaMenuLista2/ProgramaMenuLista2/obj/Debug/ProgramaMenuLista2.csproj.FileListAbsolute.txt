@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.csproj.AssemblyReference.cache
 C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.csproj.CoreCompileInputs.cache
 C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\bin\Debug\ProgramaMenuLista2.exe.config
@@ -5,3 +6,12 @@ C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMe
 C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\bin\Debug\ProgramaMenuLista2.pdb
 C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.exe
 C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.pdb
+=======
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\bin\Debug\ProgramaMenuLista2.exe.config
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\bin\Debug\ProgramaMenuLista2.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\bin\Debug\ProgramaMenuLista2.pdb
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\Lista 2\ProgramaMenu\ProgramaMenuLista2\ProgramaMenuLista2\obj\Debug\ProgramaMenuLista2.pdb
+>>>>>>> f8b855ad52e2ed192d9236823c24957c979a0edb

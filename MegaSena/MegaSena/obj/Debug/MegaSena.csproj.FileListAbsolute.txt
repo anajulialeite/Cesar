@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\Danilo Filitto\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+C:\Users\Master\source\repos\Danilo Filitto\MegaSena\MegaSena\bin\Debug\MegaSena.exe
+C:\Users\Master\source\repos\Danilo Filitto\MegaSena\MegaSena\bin\Debug\MegaSena.pdb
+C:\Users\Master\source\repos\Danilo Filitto\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Danilo Filitto\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Danilo Filitto\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+C:\Users\Master\source\repos\Danilo Filitto\MegaSena\MegaSena\obj\Debug\MegaSena.pdb

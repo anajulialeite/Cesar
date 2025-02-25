@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.csproj.AssemblyReference.cache
 C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.csproj.CoreCompileInputs.cache
 C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.exe.config
@@ -12,3 +13,19 @@ C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Prog
 C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.exe.config
 C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.exe
 C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.pdb
+=======
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.exe.config
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.pdb
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.pdb
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.exe
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\obj\Debug\ExercicioApostila.pdb
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.exe.config
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.exe
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Terceiro Semestre\Programação Orientada à Objetos I\Cesar\MenuApostila\ExercicioApostila\ExercicioApostila\bin\Debug\ExercicioApostila.pdb
+>>>>>>> f8b855ad52e2ed192d9236823c24957c979a0edb

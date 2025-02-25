@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaIF\EstruturaIF\bin\Debug\EstruturaIF.exe.config
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaIF\EstruturaIF\bin\Debug\EstruturaIF.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaIF\EstruturaIF\bin\Debug\EstruturaIF.pdb
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaIF\EstruturaIF\obj\Debug\EstruturaIF.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaIF\EstruturaIF\obj\Debug\EstruturaIF.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaIF\EstruturaIF\obj\Debug\EstruturaIF.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\EstruturaIF\EstruturaIF\obj\Debug\EstruturaIF.pdb
