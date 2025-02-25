@@ -1,0 +1,14 @@
+C:\Users\Master\Desktop\CursoCSharp\Operadores\bin\Debug\net8.0\Operadores.exe
+C:\Users\Master\Desktop\CursoCSharp\Operadores\bin\Debug\net8.0\Operadores.deps.json
+C:\Users\Master\Desktop\CursoCSharp\Operadores\bin\Debug\net8.0\Operadores.runtimeconfig.json
+C:\Users\Master\Desktop\CursoCSharp\Operadores\bin\Debug\net8.0\Operadores.dll
+C:\Users\Master\Desktop\CursoCSharp\Operadores\bin\Debug\net8.0\Operadores.pdb
+C:\Users\Master\Desktop\CursoCSharp\Operadores\obj\Debug\net8.0\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\CursoCSharp\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\CursoCSharp\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfo.cs
+C:\Users\Master\Desktop\CursoCSharp\Operadores\obj\Debug\net8.0\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\CursoCSharp\Operadores\obj\Debug\net8.0\Operadores.dll
+C:\Users\Master\Desktop\CursoCSharp\Operadores\obj\Debug\net8.0\refint\Operadores.dll
+C:\Users\Master\Desktop\CursoCSharp\Operadores\obj\Debug\net8.0\Operadores.pdb
+C:\Users\Master\Desktop\CursoCSharp\Operadores\obj\Debug\net8.0\Operadores.genruntimeconfig.cache
+C:\Users\Master\Desktop\CursoCSharp\Operadores\obj\Debug\net8.0\ref\Operadores.dll

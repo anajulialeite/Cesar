@@ -1,0 +1,14 @@
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net8.0\ConvertendoDados.exe
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net8.0\ConvertendoDados.deps.json
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net8.0\ConvertendoDados.runtimeconfig.json
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net8.0\ConvertendoDados.dll
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net8.0\ConvertendoDados.pdb
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net8.0\ConvertendoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net8.0\ConvertendoDados.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net8.0\ConvertendoDados.AssemblyInfo.cs
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net8.0\ConvertendoDados.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net8.0\ConvertendoDados.dll
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net8.0\refint\ConvertendoDados.dll
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net8.0\ConvertendoDados.pdb
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net8.0\ConvertendoDados.genruntimeconfig.cache
+C:\Users\Master\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net8.0\ref\ConvertendoDados.dll

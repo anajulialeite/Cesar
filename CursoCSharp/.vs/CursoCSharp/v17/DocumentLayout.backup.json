@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master\\Desktop\\CursoCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA68FD-CF12-49DF-95DD-9E4097242086}|Operadores\\Operadores.csproj|c:\\users\\master\\desktop\\cursocsharp\\operadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA68FD-CF12-49DF-95DD-9E4097242086}|Operadores\\Operadores.csproj|solutionrelative:operadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBBCFF5-1FDB-4F00-9C09-4E0881A6F0A9}|EntradaDeDados\\EntradaDeDados.csproj|c:\\users\\master\\desktop\\cursocsharp\\entradadedados\\entradadedados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BBBCFF5-1FDB-4F00-9C09-4E0881A6F0A9}|EntradaDeDados\\EntradaDeDados.csproj|solutionrelative:entradadedados\\entradadedados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA68FD-CF12-49DF-95DD-9E4097242086}|Operadores\\Operadores.csproj|c:\\users\\master\\desktop\\cursocsharp\\operadores\\operadores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05BA68FD-CF12-49DF-95DD-9E4097242086}|Operadores\\Operadores.csproj|solutionrelative:operadores\\operadores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBBCFF5-1FDB-4F00-9C09-4E0881A6F0A9}|EntradaDeDados\\EntradaDeDados.csproj|c:\\users\\master\\desktop\\cursocsharp\\entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBBCFF5-1FDB-4F00-9C09-4E0881A6F0A9}|EntradaDeDados\\EntradaDeDados.csproj|solutionrelative:entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F53BB35-2605-4C75-B9E9-A59A30FBD09B}|ConvertendoDados\\ConvertendoDados.csproj|c:\\users\\master\\desktop\\cursocsharp\\convertendodados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F53BB35-2605-4C75-B9E9-A59A30FBD09B}|ConvertendoDados\\ConvertendoDados.csproj|solutionrelative:convertendodados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F53BB35-2605-4C75-B9E9-A59A30FBD09B}|ConvertendoDados\\ConvertendoDados.csproj|c:\\users\\master\\desktop\\cursocsharp\\convertendodados\\convertendodados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F53BB35-2605-4C75-B9E9-A59A30FBD09B}|ConvertendoDados\\ConvertendoDados.csproj|solutionrelative:convertendodados\\convertendodados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E380EE-A8B3-416C-8A91-3E11188AA376}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\master\\desktop\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E380EE-A8B3-416C-8A91-3E11188AA376}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E380EE-A8B3-416C-8A91-3E11188AA376}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\master\\desktop\\cursocsharp\\cursocsharp\\cursocsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62E380EE-A8B3-416C-8A91-3E11188AA376}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\cursocsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntradaDeDados",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\CursoCSharp\\EntradaDeDados\\EntradaDeDados.csproj",
+              "RelativeDocumentMoniker": "EntradaDeDados\\EntradaDeDados.csproj",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\CursoCSharp\\EntradaDeDados\\EntradaDeDados.csproj",
+              "RelativeToolTip": "EntradaDeDados\\EntradaDeDados.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T00:44:34.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operadores",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\CursoCSharp\\Operadores\\Operadores.csproj",
+              "RelativeDocumentMoniker": "Operadores\\Operadores.csproj",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\CursoCSharp\\Operadores\\Operadores.csproj",
+              "RelativeToolTip": "Operadores\\Operadores.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T00:44:22.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\CursoCSharp\\Operadores\\Program.cs",
+              "RelativeDocumentMoniker": "Operadores\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\CursoCSharp\\Operadores\\Program.cs",
+              "RelativeToolTip": "Operadores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:36:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\CursoCSharp\\EntradaDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "EntradaDeDados\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\CursoCSharp\\EntradaDeDados\\Program.cs",
+              "RelativeToolTip": "EntradaDeDados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:05:29.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\CursoCSharp\\ConvertendoDados\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertendoDados\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\CursoCSharp\\ConvertendoDados\\Program.cs",
+              "RelativeToolTip": "ConvertendoDados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:43:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvertendoDados.csproj",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\CursoCSharp\\ConvertendoDados\\ConvertendoDados.csproj",
+              "RelativeDocumentMoniker": "ConvertendoDados\\ConvertendoDados.csproj",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\CursoCSharp\\ConvertendoDados\\ConvertendoDados.csproj",
+              "RelativeToolTip": "ConvertendoDados\\ConvertendoDados.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T18:44:08.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CursoCSharp.csproj",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+              "RelativeDocumentMoniker": "CursoCSharp\\CursoCSharp.csproj",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+              "RelativeToolTip": "CursoCSharp\\CursoCSharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T18:44:00.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeToolTip": "CursoCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:06:26.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
