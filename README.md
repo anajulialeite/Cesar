@@ -10,6 +10,13 @@ O nível da minha prática com a linguagem C# varia do básico ao intermediário
 
 Instalei o visual studio 2022 pelo Windows Store.
 
+## Links úteis
+
 Link do Guia de C# pelo site oficial da Microsoft: <a href= "https://learn.microsoft.com/pt-br/dotnet/csharp/"> Acesse aqui</a>
 
 Link do Guia de C# pelo w3Schools: <a href= "https://www.w3schools.com/cs/index.php"> Acesse aqui</a>
+
+## License
+
+
+
